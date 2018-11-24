@@ -1,0 +1,59 @@
+header {
+display: flex;
+margin: 30px;
+width: 100%;
+}
+.div-phai {
+    width: 20%;
+    height: 100px;
+    
+    }
+
+.div-antheo {
+    width: 80%;
+    height: 200px
+}
+.div-1 {
+    display: flex;
+    margin: auto
+}
+.div-1nuatrai {
+    width: 50%;
+    height: 150px;
+    background-color: blue
+}
+.div-1nuaphai {
+    width: 50%;
+    height: 150px;
+    background-color: red
+}
+.div-2 {
+    width: 100%;
+    height: 100px;
+    background-color: pink
+}
+.div-3 {
+    display: block
+}
+
+section {
+    /* display: block; */
+    width: 100%;
+    height: 800px;
+    margin-top: 25px;
+}
+.div-khoi100 {
+    /* display: block; */
+    width: 100%;
+    height: 800px;
+}
+.div-3cottraitren {
+    width: 20%;
+    height: 500px;
+    background-color: blueviolet;
+}
+.div-3cottraiduoi {
+    width: 20%;
+    height: 300px;
+    background-color: black;
+}
